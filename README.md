@@ -158,7 +158,7 @@ and workflow glue that saves hours weekly.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a0c4ff)](https://linkedin.com/in/abhiram-ummadishetty)
 &nbsp;
-[![Email](https://img.shields.io/badge/Drop_me_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b6b)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_me_an_email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b6b)](mailto:bhargavaabhiram2004@gmail.com)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=abhiram-ummadishetty&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/abhiram-ummadishetty)
 
