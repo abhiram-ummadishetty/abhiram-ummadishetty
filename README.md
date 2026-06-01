@@ -16,18 +16,18 @@
 <tr>
 <td width="55%" valign="top">
 
-### `> whoami`
+### whoami
 
 ```
 Name     :  Bhargava Abhiram Ummadishetty
-Role     :  ML Engineer & CV Specialist
-Location :  Andhra Pradesh, India 🇮🇳
+Role     :  Associate Software Engineer 
+Location :  India 
 Focus    :  Systems that see, learn, and act
 Status   :  Building & always learning
 ```
 
-I work at the intersection of **machine learning** and
-**computer vision** — writing code that can detect fraud
+I work at the intersection of **Machine Learning** and
+**Computer Vision** and **Agentic AI** — writing code that can detect fraud
 in milliseconds, recognise objects in real time, and
 automate workflows that used to take hours.
 
@@ -37,7 +37,10 @@ and **transformer architectures**.
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhiram-ummadishetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a0c4ff&icon_color=a0c4ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhiram-ummadishetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true"
+  width="100%"
+/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abhiram-ummadishetty&theme=tokyonight&hide_border=true&background=0d1117&stroke=a0c4ff&ring=a0c4ff&fire=ff9f43&currStreakLabel=a0c4ff" width="100%"/>
 
