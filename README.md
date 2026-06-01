@@ -146,7 +146,7 @@ and workflow glue that saves hours weekly.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram-ummadishetty&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0c4ff&text_color=c9d1d9" width="38%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhiram-ummadishetty&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0c4ff&text_color=c9d1d9&ount_private=true" width="38%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram-ummadishetty&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a0c4ff&line=a0c4ff&point=ffffff&area=true&area_color=a0c4ff" width="60%"/>
 
