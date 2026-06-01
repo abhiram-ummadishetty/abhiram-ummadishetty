@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhiram%20Ummadishetty&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Python%20Automation&descSize=16&descAlignY=58&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhiram%20Ummadishetty&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Agentic%20AI&descSize=16&descAlignY=58&descColor=a0c4ff" width="100%"/>
 
 </div>
 
@@ -144,13 +144,17 @@ and workflow glue that saves hours weekly.
 
 ## 📊 Languages Used
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="35%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhiram-ummadishetty&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+</td>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhiram-ummadishetty&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0c4ff&text_color=c9d1d9&ount_private=true" width="38%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram-ummadishetty&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a0c4ff&line=a0c4ff&point=ffffff&area=true&area_color=a0c4ff" width="60%"/>
-
-</div>
+<td width="65%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiram-ummadishetty&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
